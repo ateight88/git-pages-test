@@ -9,6 +9,8 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
+    margin: 2rem;
+
     animation: App-logo-spin infinite 20s linear;
   }
 }
@@ -25,6 +27,7 @@
 }
 
 .App-link {
+  margin: 2rem;
   color: #61dafb;
 }
 
